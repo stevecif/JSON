@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Paul",
+    "species" : "cat",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    }
+  },
+  {
+    "name": "Nicholas",
+    "species" : "dog",
+    "foods": {
+      "likes": ["bones", "carrots"],
+      "dislikes": ["tuna"]
+    }
+  },
+  {
+    "name": "Meowth",
+    "species" : "cat",
+    "foods": {
+      "likes": ["mice"],
+      "dislikes": ["cookies"]
+    }
+  },
+  {
+    "name": "Jimbo",
+    "species" : "cat",
+    "foods": {
+      "likes": ["celery", "strawberries"],
+      "dislikes": ["carrots"]
+    }
+  },
+  {
+    "name": "Randy",
+    "species" : "dog",
+    "foods": {
+      "likes": ["dog food"],
+      "dislikes": ["cat food"]
+    }
+  },
+  {
+    "name": "Stella",
+    "species" : "cat",
+    "foods": {
+      "likes": ["canned food"],
+      "dislikes": ["dry food"]
+    }
+  },
+  {
+    "name": "Tabby",
+    "species" : "cat",
+    "foods": {
+      "likes": ["fresh food"],
+      "dislikes": ["stale food"]
+    }
+  },
+  {
+    "name": "Jake",
+    "species" : "dog",
+    "foods": {
+      "likes": ["tomatoes", "peas"],
+      "dislikes": ["bread"]
+    }
+  },
+  {
+    "name": "Terrance",
+    "species" : "cat",
+    "foods": {
+      "likes": ["fancy dishes"],
+      "dislikes": ["basic cat food"]
+    }
+  }
+]
